@@ -1,17 +1,42 @@
-# mobile
+# Learnova Mobile
 
-A new Flutter project.
+Learnova is a mobile learning platform designed to help university freshmen learn, practice, and prepare for exams.
+
+## Features
+
+- Courses and lessons
+- Mock tests and practice questions
+- Exam results and progress tracking
+- Learning notifications
+- Secure authentication
+
+## Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+## Branches
+
+| Branch | Purpose |
+|--------|---------|
+| `main` | Stable production code |
+| `dev`  | Active development |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+\`\`\`bash
+git clone https://github.com/YOUR_USERNAME/learnova-mobile.git
+cd learnova-mobile
+flutter pub get
+flutter run
+\`\`\`
 
-A few resources to get you started if this is your first Flutter project:
+## Status
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Currently under development.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# learnova-mobile" 
+---
+
+**Learnova** — Learn. Practice. Succeed.
