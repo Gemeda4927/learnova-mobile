@@ -27,7 +27,7 @@ Learnova is a mobile learning platform designed to help university freshmen lear
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/learnova-mobile.git
+git clone https://github.com/Gemeda4927/learnova-mobile.git
 cd learnova-mobile
 flutter pub get
 flutter run
